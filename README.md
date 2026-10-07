@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Zoalfekar Jded 👋</h1>
 
 <h3 align="center">
-AI & Machine Learning Student | Freelance Front-End Developer
+IT Graduate | Freelance Front-End Developer | AI & Machine Learning
 </h3>
 
 <p align="center">
@@ -12,7 +12,7 @@ AI & Machine Learning Student | Freelance Front-End Developer
 
 ## 🧠 About Me
 
-- 🎓 IT Student at **Tartous University**, Syria
+- 🎓 Graduate of **Tartous University** — Associate's Degree in Information Technology (Sep 2026)
 - 💻 Freelance **Front-End Developer** (Oct 2025 – Present)
 - 🤖 Passionate about **AI, Machine Learning & Generative AI**
 - 🔧 Building at the intersection of **intelligent systems & web development**
@@ -57,15 +57,31 @@ AI & Machine Learning Student | Freelance Front-End Developer
 
 ---
 
+## 💡 Projects
+
+> 🚧 Coming soon — building and documenting projects in AI & Front-End Development.
+
+<!-- 
+عندما تضيف مشروع، احذف هذا القسم كله واستبدله بالتالي:
+
+| Project | Description | Tech | Link |
+|---|---|---|---|
+| 🔗 اسم المشروع | وصف قصير | Python · HTML | [View](رابط الـ repo) |
+| 🔗 اسم المشروع | وصف قصير | JavaScript · CSS | [View](رابط الـ repo) |
+
+-->
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zoalfekarjded829&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoalfekarjded829&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zoalfekarjded829-sketch&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoalfekarjded829-sketch&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zoalfekarjded829&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zoalfekarjded829-sketch&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ---
@@ -85,13 +101,24 @@ current_focus = {
 ## 🤝 Connect with Me
 
 <p align="left">
+
   <a href="https://www.linkedin.com/in/zoalfekar-jded-32761438a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
+  <!-- 
+  عندما تضيف انستغرام، احذف هذا التعليق وضع رابطك:
+
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  -->
+
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zoalfekarjded829&color=2196F3&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=zoalfekarjded829-sketch&color=2196F3&style=flat-square" alt="Profile Views" />
 </p>
